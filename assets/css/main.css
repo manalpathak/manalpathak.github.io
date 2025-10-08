@@ -123,18 +123,19 @@ a:hover {
   -webkit-text-fill-color: transparent;
 }
 
-.vmware {
+.ascension {
   font-family: 'Nunito', sans-serif;
-  background: -webkit-linear-gradient(left, #00BFD2, #78BC20);
+  background: -webkit-linear-gradient(left, #004B8D, #7B4EA3);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.crwd {
+.medicallyhome {
   font-family: 'Nunito', sans-serif;
-  background: -webkit-linear-gradient(60deg, #DDDDDD, #EC0000);
+  background: -webkit-linear-gradient(left, #009DAE, #004D73);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 
 /* All other sections unchanged from original */
